@@ -21,7 +21,7 @@ print myList.count(1)   # returns the number of times the item
 # append an item
 myList.append(865)      # add an item to the end of the list
 
-# insert an item
+# insert an item at a specific index
 myList.insert(1, "Welcome")
 
 # lenght of a list
